@@ -1,0 +1,11 @@
+[submodule "APPLICATION/ktexteditor"]
+	path = APPLICATION/ktexteditor
+	url = https://github.com/criticalsoft/ktexteditor.git
+
+[submodule "APPLICATION/kio"]
+	path = APPLICATION/kio
+	url = https://github.com/criticalsoft/kio.git
+
+[submodule "APPLICATION/kate"]
+	path = APPLICATION/kate
+	url = https://github.com/criticalsoft/kate.git
